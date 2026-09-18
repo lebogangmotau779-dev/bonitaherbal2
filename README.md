@@ -43,3 +43,16 @@ _ JavaScript for functionality
 
 ##Conclusion
 - The salon website will provide a user-friendly online platform where customers can learn more about the services that are offered and be able to contact the salon.
+
+CHANGE LOG
+Version 1.0
+- Created the Nancy Beauty Salon website
+- Added Home, About , Service, Contact and Enquiry page
+- Added navigation links between the pages
+- Added images and the salon logo
+- Added basic page layout
+
+Version 2.0
+- Added CSS styling to all pages
+- Improved the layout and appearance
+- Added consistent colors and styling across the website
